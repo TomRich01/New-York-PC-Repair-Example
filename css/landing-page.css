@@ -12,10 +12,15 @@ h6 {
   font-weight: 700;
 }
 
+.header-title {
+  font-family: 'Ruslan Display', cursive;
+  font-size: 32px;
+}
+
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background: url("https://cdn.pixabay.com/photo/2017/01/20/10/04/smartphone-1994410_960_720.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -34,6 +39,7 @@ header.masthead .overlay {
   opacity: 0.3;
 }
 
+
 header.masthead h1 {
   font-size: 2rem;
 }
@@ -46,6 +52,11 @@ header.masthead h1 {
   header.masthead h1 {
     font-size: 3rem;
   }
+}
+
+.p-lg {
+  padding-left: 30%;
+  font-size: 24px;
 }
 
 .showcase .showcase-text {
