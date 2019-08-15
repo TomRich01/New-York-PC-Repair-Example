@@ -4,7 +4,7 @@ The point of this website is to give clients an example portfolio.
 
 Basically, the site is very simple with a few slight changes here and there from our normal template. 
 
-This site does NOT at the moment carry a working contact form. Will be deleting as much SCSS (maybe).
+This site does NOT at the moment carry a working contact form. (This project will not include a working contact form.)
 
 
 Features:
@@ -14,3 +14,5 @@ Features:
 3. Bootstrap 4 with Font Awesome (framework/library)
 4. Basically 98% HTML and CSS
 5. Everything needed for a simple website.
+
+https://tomrich01.github.io/New-York-PC-Repair-Example/
